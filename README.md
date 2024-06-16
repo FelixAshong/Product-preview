@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-page-using-tailwind-css-u9J7hYEv2X)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
 - Live Site URL: [Live Site](https://productpreviewrgt.netlify.app/)
 
 ## My process
@@ -45,7 +45,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [Tailwind Css](https://tailwindcss.com/) - For styles
-
 
 ### What I learned
 
@@ -61,7 +60,5 @@ Practising more with Tailwind CSS.
 
 ## Author
 
-- Website - [Ronen Hammond](https://www.ronenhammond.me)
-- Frontend Mentor - [@RonenTGreat](https://www.frontendmentor.io/profile/RonenTGreat)
-- Twitter - [@Ronen_T_G](https://www.twitter.com/Ronen_T_G)
-- LinkedIn - [Ronen Hammond](https://www.linkedin.com/in/ronen-hammond/)
+- Website - [phleodelly](https://phleodelly.netlify.app/)
+- Frontend Mentor - [@FelixAshong](https://www.frontendmentor.io/profile/FelixAshong)
